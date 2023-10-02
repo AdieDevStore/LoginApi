@@ -12,6 +12,8 @@
 /dist
 /build
 
+/client
+
 .DS_Store
 .env.local
 .env.development.local
